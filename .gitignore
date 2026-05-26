@@ -1,0 +1,6 @@
+﻿*.zip
+*.ps1
+*.log
+build/
+clone/
+log.log
